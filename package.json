@@ -1,0 +1,25 @@
+{
+  "name": "projetoComNext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davijonas/projetoComNext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davijonas/projetoComNext/issues"
+  },
+  "homepage": "https://github.com/davijonas/projetoComNext#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
